@@ -1,0 +1,49 @@
+body{
+    background-image: url("https://media.istockphoto.com/vectors/seamless-pizza-slices-vector-id859247734?b=1&k=20&m=859247734&s=612x612&w=0&h=yeO1amJgp4PxJIkDnrQ_9iN_3jbSsJFajAyOMA5RPCU=");
+    background-size: cover;
+    text-align: center;
+    border: 10px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+img{
+    border:10px solid;
+
+}
+
+h1{
+    font-family: monospace;
+    font-style: italic;
+    font-size: 35px;
+}
+
+ul{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+
+a{
+    border: 10in;
+    opacity: 90%;
+}
+table{
+    border: 3px;
+    margin: bottom 50px;%
+    font-style: italic;
+}
+.stiil{
+    color: blue;
+}
+.tabelpäis{
+    font-style: italic;
+
+}
+.s1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    font-weight: bold;
+}
+a{
+    border:10px;
+}
